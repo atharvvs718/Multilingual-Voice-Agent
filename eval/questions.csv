@@ -1,0 +1,113 @@
+id,kind,question,pages
+q01,term,What is the radius of gyration?,14
+q02,term,State the theorem of parallel axes.,15
+q03,term,Why are roads banked at a curve?,5|6
+q04,term,What is surface tension?,35|34
+q05,term,What is terminal velocity?,48|47
+q06,term,What does Bernoulli's equation state?,51|50
+q07,term,What is the mean free path of a gas molecule?,57
+q08,term,State Wien's displacement law.,70
+q09,term,What is a perfect blackbody?,66|65
+q10,term,What are the degrees of freedom of a gas molecule?,61
+q11,term,State the Stefan-Boltzmann law of radiation.,71|72
+q12,term,State the zeroth law of thermodynamics.,76
+q13,term,How is the efficiency of a heat engine defined?,97|98
+q14,term,Define linear simple harmonic motion.,111|109
+q15,term,What is a second's pendulum?,123
+q16,term,What are damped oscillations?,127|126
+q17,term,What are beats in sound?,150|151
+q18,term,What is a stationary wave?,138|137
+q19,term,What is end correction in a pipe?,142
+q20,term,State Huygens' principle.,161|162
+q21,term,What is Brewster's angle?,167
+q22,term,What is diffraction of light?,176
+q23,term,What is an equipotential surface?,194
+q24,term,How is the capacitance of a capacitor defined?,203
+q25,term,What is a Van de Graaff generator used for?,210|211
+q26,term,What are Kirchhoff's laws for electric circuits?,214|215
+q27,term,What is a potentiometer?,221|222
+q28,term,What is the balance condition of a Wheatstone bridge?,217|216
+q29,term,What is the Biot-Savart law?,239|240
+q30,term,What is a cyclotron?,232|233
+q31,term,State Ampere's law.,245|246
+q32,term,What is the Curie temperature?,261
+q33,term,What is a hysteresis loop?,262|261
+q34,term,State Lenz's law.,267|268
+q35,term,What are eddy currents?,277
+q36,term,What is a transformer?,284|285
+q37,term,What is mutual inductance?,281|282
+q38,term,What is the power factor of an AC circuit?,298
+q39,term,What is a choke coil?,303
+q40,term,What is the photoelectric effect?,306
+q41,term,What is the work function of a metal?,309
+q42,term,What is the de Broglie wavelength?,317|316
+q43,term,What is a photo cell?,316
+q44,term,What are the postulates of Bohr's atomic model?,327|328
+q45,term,What is the half-life of a radioactive substance?,337
+q46,term,What is nuclear fission?,339|338
+q47,term,How does a Zener diode work?,347|348
+q48,term,How does a solar cell work?,352|353
+q49,term,What is a rectifier?,344
+q50,term,What is a logic gate?,361
+p01,paraphrase,Why does a ballet dancer spin faster when she folds her arms?,18|19
+p02,paraphrase,Why can a greased needle float on water?,33|34|35
+p03,paraphrase,Why does a liquid climb up a very thin glass tube?,41|42|43
+p04,paraphrase,What happens to the speed of a small ball falling through a thick liquid?,47|48
+p05,paraphrase,How does a radio pick one station out of many?,300|301|303
+p06,paraphrase,Why does the loudness rise and fall when two tuning forks of slightly different frequency sound together?,150|151|152
+p07,paraphrase,Which surface has the same electric potential at every point?,194
+p08,paraphrase,What is the minimum energy needed to pull an electron out of a metal?,309
+p09,paraphrase,How long does it take for half of the radioactive nuclei in a sample to decay?,337
+p10,paraphrase,What happens when a heavy nucleus splits into two lighter nuclei?,339|338
+p11,paraphrase,At what temperature does a ferromagnetic material turn paramagnetic?,261
+p12,paraphrase,Why does light bend around the edge of an obstacle?,176
+k01,keywords,radius of gyration,14
+k02,keywords,theorem of parallel axes,15
+k03,keywords,banking of roads,5|6
+k04,keywords,surface tension,35|34
+k05,keywords,terminal velocity,48|47
+k06,keywords,Bernoulli's equation,51|50
+k07,keywords,mean free path,57
+k08,keywords,Wien's displacement law,70
+k09,keywords,perfect blackbody,66|65
+k10,keywords,degrees of freedom,61
+k11,keywords,Stefan-Boltzmann law,71|72
+k12,keywords,zeroth law of thermodynamics,76
+k13,keywords,efficiency of a heat engine,97|98
+k14,keywords,linear simple harmonic motion,111|109
+k15,keywords,second's pendulum,123
+k16,keywords,damped oscillations,127|126
+k17,keywords,beats,150|151
+k18,keywords,stationary waves,138|137
+k19,keywords,end correction,142
+k20,keywords,Huygens' principle,161|162
+k21,keywords,Brewster's angle,167
+k22,keywords,diffraction of light,176
+k23,keywords,equipotential surface,194
+k24,keywords,capacitance of a capacitor,203
+k25,keywords,Van de Graaff generator,210|211
+k26,keywords,Kirchhoff's laws of electric circuits,214|215
+k27,keywords,potentiometer,221|222
+k28,keywords,Wheatstone bridge balance condition,217|216
+k29,keywords,Biot-Savart law,239|240
+k30,keywords,cyclotron,232|233
+k31,keywords,Ampere's law,245|246
+k32,keywords,Curie temperature,261
+k33,keywords,hysteresis loop,262|261
+k34,keywords,Lenz's law,267|268
+k35,keywords,eddy currents,277
+k36,keywords,transformer,284|285
+k37,keywords,mutual inductance,281|282
+k38,keywords,power factor,298
+k39,keywords,choke coil,303
+k40,keywords,photoelectric effect,306
+k41,keywords,work function,309
+k42,keywords,de Broglie wavelength,317|316
+k43,keywords,photo cell,316
+k44,keywords,Bohr's postulates,327|328
+k45,keywords,half-life,337
+k46,keywords,nuclear fission,339|338
+k47,keywords,Zener diode,347|348
+k48,keywords,solar cell,352|353
+k49,keywords,rectifier,344
+k50,keywords,logic gate,361
