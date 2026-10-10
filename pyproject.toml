@@ -1,0 +1,33 @@
+[project]
+name = "voice-agent"
+version = "0.1.0"
+description = "Voice-first study companion for Marathi and Hindi students"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+filterwarnings = ["ignore::DeprecationWarning"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+extend-exclude = [".venv", "out"]
+
+[tool.ruff.lint]
+select = [
+    "E", "W",   # pycodestyle
+    "F",        # pyflakes: unused names, undefined names
+    "I",        # import order
+    "B",        # bugbear: likely bugs
+    "UP",       # modern Python syntax
+    "SIM",      # simplifications
+    "PT",       # pytest style
+    "RUF",      # ruff's own checks
+]
+ignore = [
+    "E501",     # long lines: prompts and SQL read better unwrapped
+    "RUF001",   # "ambiguous" characters: Devanagari text is intentional
+    "RUF002",
+    "RUF003",
+]
