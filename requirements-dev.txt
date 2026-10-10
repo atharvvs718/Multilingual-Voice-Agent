@@ -1,0 +1,5 @@
+# Tools for working on the code; not needed to run the app.
+-r requirements.txt
+pytest
+ruff
+jiwer==4.0.0     # error rates in the evaluation scripts
