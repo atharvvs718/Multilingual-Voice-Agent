@@ -1,0 +1,14 @@
+# Only what the app needs is sent to the image builder. Everything else on this laptop stays out:
+# the keys, uploads, logs, the virtual environment, and any file that happens to be in this folder.
+*
+!requirements.txt
+!config.py
+!server.py
+!agent/
+!rag/
+!db/
+!web/
+!notes/
+!assets/
+**/__pycache__/
+*.pyc
