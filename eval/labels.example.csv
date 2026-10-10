@@ -1,0 +1,9 @@
+clip_id,language,reference_transcript,expected_tool,expected_query_or_chapter,expected_page,answerable,conversation
+ex01.wav,mr,प्रकाशसंश्लेषण म्हणजे काय?,search_notes,प्रकाशसंश्लेषण म्हणजे काय,1,yes,a
+ex02.wav,mr,आणि ते कुठे होते?,search_notes,प्रकाशसंश्लेषण कुठे होते,1,yes,a
+ex03.wav,mixed,Starch आहे की नाही ते कसं check करतात?,search_notes,स्टार्च तपासणी,1,yes,
+ex04.wav,hi,पत्तों में कार्बन डाइऑक्साइड कहाँ से आती है?,search_notes,कार्बन डाइऑक्साइड पत्तों में,1,yes,
+ex05.wav,hi,"नमस्ते, तुम क्या कर सकते हो?",none,,,yes,
+ex06.wav,mr,भारताची राजधानी कोणती आहे?,search_notes,भारताची राजधानी,,no,
+ex07.wav,mr,धडा 6 वर मला प्रश्न विचार,quiz_me,6,,yes,b
+ex08.wav,mr,ऑक्सिजन,none,,,yes,b
