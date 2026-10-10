@@ -1,0 +1,18 @@
+# The versions the app was built and tested with. PyTorch comes in with sentence-transformers and
+# silero-vad; the Dockerfile installs its CPU build first, so a host without a GPU gets the small one.
+groq==1.7.0
+fastapi==0.142.2
+uvicorn==0.54.0
+python-multipart==0.0.32
+python-dotenv==1.2.4
+numpy==2.5.3
+soundfile==0.14.0
+requests==2.34.2
+silero-vad==6.2.3
+pypdfium2==5.13.0
+pillow==12.3.0
+pytesseract==0.3.13
+sentence-transformers==5.7.0
+transformers==5.19.0
+psycopg[binary]==3.3.6
+pgvector==0.5.0
