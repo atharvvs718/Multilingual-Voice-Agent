@@ -1,0 +1,27 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+out/
+eval/clips/
+eval/results/
+samples/
+logs/
+uploads/
+
+# Secrets and local settings: never committed
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editor and tool folders, local logs
+.vscode/
+.idea/
+*.log
+
+# Working notes, kept on this machine only
+JOURNAL.md
+PLAN.md
